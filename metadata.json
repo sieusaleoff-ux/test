@@ -1,0 +1,7 @@
+{
+  "name": "Lumina AI Studio",
+  "description": "A professional-grade creative suite for AI-powered image generation, advanced photo editing, and cinematic video animation using Gemini and Veo models.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
